@@ -1,0 +1,1392 @@
+fileFormatVersion: 2
+guid: 30ee5bdde28a4184f9872c0cf4460302
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: samus_variasuit_rpg_maker_mv_by_xabring-daennla_0
+    21300002: samus_variasuit_rpg_maker_mv_by_xabring-daennla_1
+    21300004: samus_variasuit_rpg_maker_mv_by_xabring-daennla_2
+    21300006: samus_variasuit_rpg_maker_mv_by_xabring-daennla_3
+    21300008: samus_variasuit_rpg_maker_mv_by_xabring-daennla_4
+    21300010: samus_variasuit_rpg_maker_mv_by_xabring-daennla_5
+    21300012: samus_jump_0
+    21300014: samus_variasuit_rpg_maker_mv_by_xabring-daennla_7
+    21300016: samus_jump_4
+    21300018: samus_variasuit_rpg_maker_mv_by_xabring-daennla_9
+    21300020: samus_variasuit_rpg_maker_mv_by_xabring-daennla_10
+    21300022: samus_variasuit_rpg_maker_mv_by_xabring-daennla_11
+    21300024: samus_variasuit_rpg_maker_mv_by_xabring-daennla_12
+    21300026: samus_variasuit_rpg_maker_mv_by_xabring-daennla_13
+    21300028: samus_variasuit_rpg_maker_mv_by_xabring-daennla_14
+    21300030: samus_variasuit_rpg_maker_mv_by_xabring-daennla_15
+    21300032: samus_variasuit_rpg_maker_mv_by_xabring-daennla_16
+    21300034: samus_variasuit_rpg_maker_mv_by_xabring-daennla_17
+    21300036: samus_variasuit_rpg_maker_mv_by_xabring-daennla_18
+    21300038: samus_variasuit_rpg_maker_mv_by_xabring-daennla_19
+    21300040: samus_variasuit_rpg_maker_mv_by_xabring-daennla_20
+    21300042: samus_variasuit_rpg_maker_mv_by_xabring-daennla_21
+    21300044: samus_variasuit_rpg_maker_mv_by_xabring-daennla_22
+    21300046: samus_variasuit_rpg_maker_mv_by_xabring-daennla_23
+    21300048: samus_variasuit_rpg_maker_mv_by_xabring-daennla_24
+    21300050: samus_variasuit_rpg_maker_mv_by_xabring-daennla_25
+    21300052: samus_variasuit_rpg_maker_mv_by_xabring-daennla_26
+    21300054: samus_variasuit_rpg_maker_mv_by_xabring-daennla_27
+    21300056: samus_variasuit_rpg_maker_mv_by_xabring-daennla_28
+    21300058: samus_variasuit_rpg_maker_mv_by_xabring-daennla_29
+    21300060: samus_jump_1
+    21300062: samus_jump_2
+    21300064: samus_jump_3
+    21300066: samus_variasuit_rpg_maker_mv_by_xabring-daennla_33
+    21300068: samus_variasuit_rpg_maker_mv_by_xabring-daennla_34
+    21300070: samus_variasuit_rpg_maker_mv_by_xabring-daennla_35
+    21300072: samus_variasuit_rpg_maker_mv_by_xabring-daennla_36
+    21300074: samus_variasuit_rpg_maker_mv_by_xabring-daennla_37
+    21300076: samus_variasuit_rpg_maker_mv_by_xabring-daennla_38
+    21300078: samus_variasuit_rpg_maker_mv_by_xabring-daennla_39
+    21300080: samus_variasuit_rpg_maker_mv_by_xabring-daennla_40
+    21300082: samus_variasuit_rpg_maker_mv_by_xabring-daennla_41
+    21300084: samus_variasuit_rpg_maker_mv_by_xabring-daennla_42
+    21300086: samus_variasuit_rpg_maker_mv_by_xabring-daennla_43
+    21300088: samus_variasuit_rpg_maker_mv_by_xabring-daennla_44
+    21300090: samus_variasuit_rpg_maker_mv_by_xabring-daennla_45
+    21300092: samus_variasuit_rpg_maker_mv_by_xabring-daennla_46
+    21300094: samus_variasuit_rpg_maker_mv_by_xabring-daennla_47
+    21300096: samus_variasuit_rpg_maker_mv_by_xabring-daennla_48
+    21300098: samus_variasuit_rpg_maker_mv_by_xabring-daennla_49
+    21300100: samus_variasuit_rpg_maker_mv_by_xabring-daennla_50
+    21300102: samus_variasuit_rpg_maker_mv_by_xabring-daennla_51
+    21300104: samus_variasuit_rpg_maker_mv_by_xabring-daennla_52
+    21300106: samus_variasuit_rpg_maker_mv_by_xabring-daennla_53
+    21300108: samus_variasuit_rpg_maker_mv_by_xabring-daennla_54
+    21300110: samus_variasuit_rpg_maker_mv_by_xabring-daennla_55
+    21300112: samus_variasuit_rpg_maker_mv_by_xabring-daennla_56
+    21300114: samus_variasuit_rpg_maker_mv_by_xabring-daennla_57
+    21300116: samus_variasuit_rpg_maker_mv_by_xabring-daennla_58
+    21300118: samus_variasuit_rpg_maker_mv_by_xabring-daennla_59
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 320
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98698c0dcd0c8e943b1f5f38ddf69cf1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 320
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785802760bbd1e445adb063dedb9642b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 320
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24b103c4e8c57c4e8e35e7759b04f20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_3
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 320
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c9a27698a7d9e429a3f17a8c5d7cca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_4
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 320
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186e56dd76c674443b7b82342e229fc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_5
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 320
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27dd9d4eca3c3d42ad23344cf0be7d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_jump_0
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 324
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d590e5286474894c9625ce26426aac3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_7
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 320
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29235dfc550a16e47be923574f5b35e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_jump_4
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 327
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1988328872f25d2478b5056b0c953812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_9
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 256
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7d2192cdbe22149baf9fda224dbf25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_10
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 256
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011be0926adefbc4289923f74f922fba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_11
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 256
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d8190a5c4da7d438a667618f9b2343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_12
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 256
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1245a9e33a397674ab393314218559bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_13
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 256
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c79070926562224a910fd8101347117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_14
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 256
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599c7097a2a70aa4c857e604c077c8ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_15
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 256
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ede54ce4d46e44fb9c16ce60b5527d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_16
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 256
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdef2355419dfb447b56e7374525b267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_17
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 256
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e084e839226af0a4897c352065f5dbef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 192
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e625452f73ae8814e8c3eb01720131ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_19
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 192
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c977b3001a268884ea3f91ecb76bbf43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_20
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 192
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b4fcfe8da49e44d81828b7181a7f4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_21
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 192
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3767a2436c83a42984c62aa994c4ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_22
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 192
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5610189672be74681b8689ca66495f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_23
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 192
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b573ddb14974224297d476a2fc95250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_24
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 192
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb085ca421c5f6746aef431244685905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_25
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 192
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f48939b97d057d42bf881ac619dff37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_26
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 192
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01f05d253db26846a220ab9d433291b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_27
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 128
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7d71f08d433174ebef58f2f0900ead
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_28
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 128
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb406ceb4618bf4fa0d4307f6578a3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_29
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 128
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56064ce89535fc94891b8aad38d06cf9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_jump_1
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 146
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76af30fd9571f144da46d0c5a18fc26d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_jump_2
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 143
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9da3c1f8f2b7d4ea4904acf7f05ae7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_jump_3
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 146
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3512c29ae351c004e8e6e95b5117c262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_33
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 128
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53724afd2cc3cd499c98d711b839dcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_34
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 128
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de3e875b741cad48b933fbdc30d73d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_35
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 128
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62fa6194ec9cb148813bb9718a7c27b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_36
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 64
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173e2c2c2475706479f343e422cdccaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_37
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 94
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574778d1c2ac1734c9fd6d7ee75c4c9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_38
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 94
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f17ea038831b54180e3c0be187a984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_39
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 103
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88025d49e23c4f54b9b03fb5a97c76c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_40
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 64
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0db1a6b78e1ac49aedace78498a165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_41
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 64
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb5d2b34e4603846984b790cc34e62b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_42
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 64
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50982a6e3ed7ad741b00fae2a631f53f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_43
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 64
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed853adfb24de9c4cb8dc228fd7e5c53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_44
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 64
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ac87afa0a41e54f87c196ad14c80e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_45
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 85
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e3d9cac376fb4428022f74651251e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_46
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 85
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deee387fcae656e438ff3869cd7c475c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_47
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 85
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8a5c05b6b03a440ac5472daa2e445e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_48
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cce8d62bbc9e44892221582144a4e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_49
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7eafec37fd4f34da5a02aa3fc47002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_50
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29aa63a11c091244bb8650020f28479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_51
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef22063bd55f0de48855db80755bd6c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_52
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4548599cdbf6d449a526bbe22eb98fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_53
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0061b86f47ded4dafbb70fff7f1ccf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_54
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1806be4f9daea944b6a1b6ccbc820f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_55
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 0
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500f53de62cbede4286fb4bde160446b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_56
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 0
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31414af109706cf4c9091b7a6d95dbab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_57
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 0
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79be30e03f50b54f893d2bcbb71d0aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_58
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 0
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3ce053aad6bfd4697e2e48f2183c9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_variasuit_rpg_maker_mv_by_xabring-daennla_59
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 0
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f318f782236d24f9da7c9aecf88317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b76ab01631e9a9644a88c8b5608b6639
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

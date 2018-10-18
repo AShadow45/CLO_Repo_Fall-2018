@@ -1,0 +1,77 @@
+Void start () {
+	StartCoRoutine ("myCoroutine");
+}
+
+void update () {
+
+}
+
+IEnumerator () {
+	//do something
+	yield return new WaitForSeconds(2);
+	//do something else
+	//resets
+	yield return null;
+}
+-------------------
+Example One Class
+-------------------
+void start () {
+	StartCoroutine ("Wait2Seconds");
+	Debug.Log ("hello!!!");
+}
+
+IEnumerator Wait2Seconds () {
+	Debug.Log ("1");
+	yield return new WaitForSeconds (2);
+	Debug.Log ("2");
+	yield return new WaitForSeconds (2);
+	Debug.Log ("3");
+}
+
+-----------------------
+Example Two Class 
+-----------------------
+Patrolling Sphere
+
+void start () {
+	
+}
+
+void update () {
+	transform.position = Vector3. Lerp(new Vector3(-10f,0f,10f), new Vector3(10f,0f,0f), Mathf.PingPong(Time.time,1));
+	
+}
+
+----------------------
+Example Three Class
+----------------------
+Fading Cube
+
+public GameObject sphere;
+
+void update () {
+	if (Input.GetKeyDown ("f") {
+		StartCoroutine ("Fade");
+	}
+	StartCoroutine ("SphereCheck");
+}
+
+IEnumerator SphereCheck () {
+	float dist = Vector3.Distance (transform.position, sphere.transform.position);
+	if (dist<5f) {
+		Debug.Log ("ohno!!!");
+	} else {
+		Debug.Log ("safe");
+	}
+	yeild return new WaitForSeconds (0.1f);
+}
+
+IEnumerator Fade () {
+	for (float i= 1f; i>= 0; i -= 0.01f) {
+		Color c = GetComponent<Renderer> ().material.color;
+		c.a = i;
+		GetComponent<Renderer> ().material.color = c;
+		yield return null;
+	}
+}
