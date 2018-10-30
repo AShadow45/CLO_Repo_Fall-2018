@@ -1,0 +1,141 @@
+Classwork October 30, 2018
+
+3D Asteroids 
+-----------------------------------------------------------------------------------------------
+Example
+Ship Movement Script
+**Note: Screenwrap dimensions can change depending on current screen size 
+-----------------------------------------------------------------------------------------------
+Rigidbody rb;
+float moveForce;
+float turnForce;
+
+void start() {
+rb = GetComponent<Rigidbody>();
+}
+
+void update () {
+	if (Input.GetKey(KeyCode.UpArrow)){
+		rb.AddForce(transform.forward*moveForce,ForceMode.Acceleraction);
+	}
+	
+	if (Input.GetKey(KeyCode.LeftArrow)){
+		rb.AddTorque(Vector3.up * -turnForce,ForceMode.Impulse);
+	}
+	
+	if (Input.GetKey(KeyCode.RightArrow)){
+		rb.AddTorque(Vector3.up * -turnForce,ForceMode.Impulse);
+	}
+	
+	Screenwrap();
+}
+
+void Screenwrap(){
+	if (transform.position.x < -34) {
+		transform.position = new Vector3 (33,transform.position.y, transform.position.z);
+	}
+	
+	if (transform.position.x < 34) {
+		transform.position = new Vector3 (-33,transform.position.y, transform.position.z);
+	}
+	
+	if (transform.position.z < -26) {
+		transform.position = new Vector3 (transform.position.x, transform.position.y, 25);
+	}
+	
+	if (transform.position.z < 26) {
+		transform.position = new Vector3 (transform.position.x, transform.position.y, -25);
+	}
+}
+
+-----------------------------------------------------------------------------------------------
+Example
+moveFire Script
+-----------------------------------------------------------------------------------------------
+
+float shotSpeed;
+
+void update() {
+	transform.Translate(Vector3.forward * Time.deltaTime * shotSpeed);
+	
+	if (transform.position.x < -34 ||transform.position.x > 34 
+		|| transform.position.z < -26 || transform.position.z > 26)
+	{
+		Destroy (this.gameObject);
+	}
+}
+
+-----------------------------------------------------------------------------------------------
+Example
+Shot Script
+-----------------------------------------------------------------------------------------------
+
+public GameObject shot;
+public Transform shotLoc;
+
+void update() {
+	if (Input.GetKeyDown(KeyCode.Space) {
+		Instantiate (shot, shotLoc.position, shotLoc.rotation);
+	}
+}
+
+-----------------------------------------------------------------------------------------------
+Example
+moveAsteroid Script
+-----------------------------------------------------------------------------------------------
+
+float speed;
+float posX, posZ;
+
+void Start () {
+	posX = Random.range (-34,34);
+	posZ = Random.range (-26,26);
+	
+	transform.position = new Vector3 (posX, 0, posZ);
+	
+	Vector3 euler = transform.eulerAngles;
+	euler.y = Random.range (0f, 360f);
+	transform.eulerAngles = euler;
+}
+
+void Update () {
+	transform.Translate (Vector3.forward * Time.deltaTime * speed);
+	Screenwrap();
+}
+
+void Screenwrap(){
+	if (transform.position.x < -34) {
+		transform.position = new Vector3 (33,transform.position.y, transform.position.z);
+	}
+	
+	if (transform.position.x < 34) {
+		transform.position = new Vector3 (-33,transform.position.y, transform.position.z);
+	}
+	
+	if (transform.position.z < -26) {
+		transform.position = new Vector3 (transform.position.x, transform.position.y, 25);
+	}
+	
+	if (transform.position.z < 26) {
+		transform.position = new Vector3 (transform.position.x, transform.position.y, -25);
+	}
+}
+
+-----------------------------------------------------------------------------------------------
+Example
+makeAsteroid Script
+-----------------------------------------------------------------------------------------------
+
+public GameObject asteroid;
+
+void Start() {
+	for (int i = 0; i < 8; i++) {
+		Instantiate (asteroid, new Vector3(0,0,0), Quaternion.identity);
+	}
+}
+
+-----------------------------------------------------------------------------------------------
+Example
+Checking Script
+-----------------------------------------------------------------------------------------------
+
