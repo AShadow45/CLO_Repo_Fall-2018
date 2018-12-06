@@ -4,24 +4,23 @@ using UnityEngine;
 
 public class CatController : MonoBehaviour {
 
-    private AudioSource source;
-    public AudioClip catPurr;
-
-    private float volLowRange = .5f;
-    private float volHighRange = 1.0f;
+    AudioSource pur;
+    float affectionTracker;
 
     void Awake() {
-        source = GetComponent<AudioSource>();
+        pur = GetComponent<AudioSource>();
     }
 
 
     void Update () {
-		
+        OnMouseDown();
 	}
 
     void OnMouseDown()
     {
-        float vol = Random.Range(volLowRange, volHighRange);
-        source.PlayOneShot(catPurr, vol);
+        pur.Play();
+
+        float currAfec = GetComponent<AffectionSlider>().hp;
+        currAfec++;
     }
 }

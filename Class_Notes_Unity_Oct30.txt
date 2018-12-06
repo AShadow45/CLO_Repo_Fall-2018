@@ -84,8 +84,9 @@ Example
 moveAsteroid Script
 -----------------------------------------------------------------------------------------------
 
-float speed;
+public float speed;
 float posX, posZ;
+public float hp;
 
 void Start () {
 	posX = Random.range (-34,34);
@@ -96,10 +97,14 @@ void Start () {
 	Vector3 euler = transform.eulerAngles;
 	euler.y = Random.range (0f, 360f);
 	transform.eulerAngles = euler;
+	
+	hp = Random.range(1,4);
+	transform.localScale = new Vector3 (hp+2,hp+2,hp+2);
 }
 
 void Update () {
 	transform.Translate (Vector3.forward * Time.deltaTime * speed);
+	speed = 5 - hp;
 	Screenwrap();
 }
 
@@ -130,12 +135,29 @@ public GameObject asteroid;
 
 void Start() {
 	for (int i = 0; i < 8; i++) {
-		Instantiate (asteroid, new Vector3(0,0,0), Quaternion.identity);
+		Instantiate (asteroid, new Vector3(10,0,0), Quaternion.identity);
 	}
 }
 
 -----------------------------------------------------------------------------------------------
 Example
-Checking Script
+CheckforCollision Script
 -----------------------------------------------------------------------------------------------
 
+void OnTriggerEnter(Collider other) {
+	if (other.gameObject.tag = "shot") {
+		float currHp = GetComponent<moveAsteroid>().hp;
+		if (currHp > 0) {
+		currHp--;
+		transform.localScale = new Vector3(currHp *2, currHp*2, currHp*2);
+		GetComponent<moveAsteroid> ().hp = currHp;
+		} else {
+		Destroy(this.gameObject);
+		}
+	}
+	
+		if (other.gameObject.tag = "player") {
+		Debug.Log ("ship hit");
+		Destroy(other.gameObject);
+	}
+}

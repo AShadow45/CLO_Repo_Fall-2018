@@ -1,0 +1,55 @@
+Classwork November 1, 2018
+
+**Add parameters for each transition
+-float
+-bool
+-int
+-trigger
+
+**Set conditions for animations
+
+**Blend trees [look up for information]
+
+creating portals in unity [steps]
+
+- create shape (sphere, cube,etc)
+- flatten shape
+- create player and attach camera 
+- add script to player [portal movement]
+- add Rigidbody component 
+- turn portals into triggers
+- create two cameras [name them]
+    --> the camera should face the direction the player will pop out of the portal
+    --> near the portal
+- create render texture
+	--> high resolution{1024 x 1024]	
+- render texture should be assigned to the opposite portals
+- connect material and texture
+
+|-----------------------------------------------------------------------------------------------|
+|The Example Script for PortalMovement                                                          |
+|-----------------------------------------------------------------------------------------------|
+
+Public GameObject cubePortal, spherePortal;
+
+void Update () {
+	if (Input.GetKey (KeyCode.UpArrow)){
+		transform.Translate (Vector3.transform.forward *5*Time.deltaTime);
+	}
+	
+	if (Input.GetKey (KeyCode.DownArrow)){
+		transform.Translate (Vector3.transform.forward *-5*Time.deltaTime);
+	}
+}
+
+void OnTriggerEnter (Collider other) {
+	Debug.Log(other.gameObject.name);
+	
+	if (other.gameObject.name == "cube_Portal") {
+		transform.position = spherePortal.transform.position + new Vector3 (-4,0,0);
+	}
+	
+	if (other.gameObject.name == "sphere_Portal") {
+		transform.position = cubePortal.transform.position + new Vector3 (4,0,0);
+	}
+}
