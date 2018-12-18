@@ -46,7 +46,7 @@ public class Health : MonoBehaviour {
             health += 1;
         }
 
-        if (health == 3) {
+        if (health == 5) {
             SceneManager.LoadScene("RestartScene");
         }
     }

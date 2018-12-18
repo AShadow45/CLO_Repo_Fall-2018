@@ -1,3 +1,12 @@
-... Where am I...?
-Tih! Wake up you sleepy head!
-Someones calling for me...?
+[title=cutscene1_start]
+Hello trainee.
+Welcome to the Hero Simulator. 
+Where you'll learn how to be a Hero.
+Are you ready?
+...
+Of course you are.
+Now let me explain some things.
+You will be tasked with fixing some "bugs".
+It will be your job to "save" the day.
+This will be your learning experience.
+[title=cutscene1_end]

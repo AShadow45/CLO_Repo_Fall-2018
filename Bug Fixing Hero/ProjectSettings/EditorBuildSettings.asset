@@ -6,24 +6,30 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/0Loading/Loading.unity
+    guid: 07e683ca3788ae4499594221e4c39837
+  - enabled: 1
     path: Assets/Scenes/1WelcomeSimulator/WELCOME.unity
     guid: c7cc330ecfc97b14b916002dd6907444
   - enabled: 1
     path: Assets/Scenes/2Controls/PlayerControls.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/3Slimes/Slimes.unity
+    path: Assets/Scenes/3Plants/Plants.unity
     guid: 8ff0acff4bc7a2d4db30b01a906842a9
   - enabled: 1
-    path: Assets/Scenes/3Slimes/HeroDied/RestartScene.unity
+    path: Assets/Scenes/3Plants/HeroDied/RestartScene.unity
     guid: 704e86d60ff77f842a8c12302f016ae5
   - enabled: 1
     path: Assets/Scenes/4YouWinJustkidding/YouFailed.unity
     guid: 2b2bf290acedb9e46a3bb04fd438b01a
   - enabled: 1
-    path: Assets/Scenes/5SlimesRestart/SlimesPeacefulEnd.unity
+    path: Assets/Scenes/5PlantsRestart/PlantsPeacefulEnd.unity
     guid: e2b2579c749952248b6e1ce412967721
   - enabled: 1
-    path: Assets/Scenes/6Complete/SimulatorEnd.unity
+    path: Assets/Scenes/6SimulationComplete/SimulatorEnd.unity
     guid: 344fe924bf1a1b74390d2c3ef5792f9d
+  - enabled: 1
+    path: Assets/Scenes/7Thankyou/Thankyou.unity
+    guid: 63b5d1136d9a907408aa07bfecd18ad8
   m_configObjects: {}
